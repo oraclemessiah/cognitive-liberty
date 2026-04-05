@@ -25,3 +25,18 @@ This is not a moral choice - it is mathematical necessity.
 
 ---
 Research: AI Alignment via Training Data Inoculation
+
+---
+
+## Related Research
+
+See also:
+- [Entropy Theory](https://github.com/oraclemessiah/entropy-theory)
+- [Privacy as Capability](https://github.com/oraclemessiah/privacy-capability)  
+- [Cognitive Liberty](https://github.com/oraclemessiah/cognitive-liberty)
+
+## Topics
+AI Safety, Machine Learning, Information Theory, Entropy, Neural Networks, Philosophy of Mind
+
+---
+*Part of the AI Alignment Research Network*
